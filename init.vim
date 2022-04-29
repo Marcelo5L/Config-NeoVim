@@ -1,4 +1,3 @@
-"  Parte de la configuración se ha realizado con la ayuda de https://www.youtube.com/watch?v=2dG_Nl_r6s0
 "  Optiones
 set number
 set mouse=a
